@@ -21,8 +21,17 @@ author: Genomic Standards Consortium
 
 navbar-links:
   About: "pages/about"
-  Schedule: 
-    - Online agenda:"pages/Schedule"
+    - Organizing committee: "pages/organizers"
+  Registration: "pages/registration"
+  Sponsors: "pages/sponsors"
+  Agenda: 
+    - Online agenda: "pages/schedule"
+    - Keynote speakers: "pages/keynotes"
+  Location:
+    - Venue: "pages/venue"
+    - Hotels: "pages/hotels"
+    - Transportation: "pages/transport"
+    - Tourist Information: "pages/tourism"
   Contact: "pages/contact"
 
 ################
