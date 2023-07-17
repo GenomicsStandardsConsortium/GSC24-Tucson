@@ -12,9 +12,4 @@ share-img: /assets/img/
 ![GenSC logo](../assets/img/gsc_logo_sml.png)
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=9900a43fe32c5a7ae695a97d94a9d4d04cae1e93c925e43facea5fdf5a4a9034%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="1600" height="1600" frameborder="0" scrolling="no"></iframe>
-
-
-
-
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Asia%2FBangkok&mode=WEEK&src=OTkwMGE0M2ZlMzJjNWE3YWU2OTVhOTdkOTRhOWQ0ZDA0Y2FlMWU5M2M5MjVlNDNmYWNlYTVmZGY1YTRhOTAzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Z2Vuc2MtYm9hcmRAZ29vZ2xlZ3JvdXBzLmNvbQ&color=%237CB342&color=%237CB342" style="border:solid 1px #777" width="900" height="600" frameborder="0" scrolling="no"></iframe>
