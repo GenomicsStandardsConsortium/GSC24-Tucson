@@ -1,5 +1,5 @@
-# GSC24-Tucson
-The 24th GSC meeting to be held in Tucson, Arizona, USA
+# GSC25-Tucson
+The 25th GSC meeting to be held in Tucson, Arizona, USA
 
 This repo will create the GSC24 meeting public website using the [Beautiful Jekyll](https://beautifuljekyll.com/) template.
 
