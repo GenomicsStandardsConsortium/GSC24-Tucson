@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: GSC25-Tucson
+title: GSC24-Tucson
 
 # Your name to show in the footer
 author: Genomic Standards Consortium
@@ -60,7 +60,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "gsc25-tucson@googlegroups.com"
+  email: "gsc24-tucson@googlegroups.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Genomic Standards Consortium ( GSC)
   github: GenomicsStandardsConsortium
@@ -106,7 +106,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "GSC25-Tucson-meeting"
+url-pretty: "GSC24-Tucson-meeting"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
