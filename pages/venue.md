@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Conference Venue
-cover-img: /assets/img/
+cover-img: /assets/img/Bio5-banner1.png
 share-img: /assets/img/
 ---
 
@@ -11,18 +11,17 @@ The venue for the 24th Genomic Standards Consortium meeting will the [Bio5 Insti
 ![Bio5 Institute photo](../assets/img/Bio5-institute1.png)
 
 ## Address
-The University of Arizona
-1657 E Helen St, Tucson, AZ 85719
+
+University of Arizona 
+Bio5 Complex
+1657 E. Helen Street 
+Tucson, Arizona 85719
+
 
 Further details on the venue and accomodation will be posted here when they are available.
 
 
-# [About Genomic Standards Consortium](https://www.gensc.org/)
-![GenSC logo](../assets/img/gsc_logo_sml.png)
 
-
-
-
-
+[<img src="../assets/img/gsc_logo_sml.png">](https://www.gensc.org/)
 
 
