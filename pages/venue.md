@@ -22,6 +22,6 @@ Further details on the venue and accomodation will be posted here when they are 
 
 
 
-[<img src="../assets/img/gsc_logo_sml.png">](https://www.gensc.org/)
+[<img src="https://github.com/GenomicsStandardsConsortium/GSC24-Tucson/blob/main/assets/img/gsc_logo_sml.png">](https://www.gensc.org/)
 
 
