@@ -47,5 +47,4 @@ Meeting Sessions Theme:
  * Challenges of ‘Omic data reuse (international Microbiome and Multi’Omics Standards Alliance) 
  * Solutions to Genomic Reproducibility and Standards Challenges  
 
-![GenSC](../assets/img/gsc_logo_sml.png)
-[GenSC](https://www.gensc.org/)
+[ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
