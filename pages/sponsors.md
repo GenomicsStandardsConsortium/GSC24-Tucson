@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: page
 title: Sponsors
-cover-img: /assets/img/
+cover-img: /assets/img/sponsor-banner.png
 share-img: /assets/img/
 ---
 
-# This page is under construction - please try again later
+# Details of sponsorship opportunities will be posted here soon!
 
 
-# [About Genomic Standards Consortium](https://www.gensc.org/)
-![GenSC logo](../assets/img/gsc_logo_sml.png)
 
+[ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
 
 
 
