@@ -52,9 +52,6 @@ round-avatar: false
 # title-img: "/assets/img/Main_gsc_logo_2010.jpg"
 title-img: "/assets/img/gsc_logo_sml.png"
 
-# To add a flavicon to the web-tab simply provide a favicon.ico file in the root directory
-favicon: "/assets/img/favicon.ico"
-
 #####################################
 # --- Footer social media links --- #
 #####################################
