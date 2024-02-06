@@ -53,7 +53,7 @@ round-avatar: false
 title-img: "/assets/img/gsc_logo_sml.png"
 
 # Add a flavicon to the web-tab 
-flavicon: "/assets/img/gsc_logo_sml.png"
+favicon: "/assets/img/gsc_logo_sml.png"
 
 #####################################
 # --- Footer social media links --- #
