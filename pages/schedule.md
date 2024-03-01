@@ -19,10 +19,12 @@ share-img: /assets/img/
 
 ## Meeting Sessions Theme
 
- * Genomic Reproducibility
+ * Reproducibility challenges
  * Virome Genomic Standards
- * Challenges of ‘Omic data reuse (international Microbiome and Multi’Omics Standards Alliance) 
- * Solutions to Genomic Reproducibility and Standards Challenges  
+ * New GSC standards
+ * Challenges of ‘Omic data reuse (International Microbiome and Multi’Omics Standards Alliance - IMMSA) 
+ * Discussions around solutions to Genomic Reproducibility and Standards Challenges 
+ * Working group sessions
 
 
 
