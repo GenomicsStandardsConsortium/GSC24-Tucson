@@ -1,17 +1,19 @@
 ---
-layout: default
+layout: page
 title: Registration details
-cover-img: /assets/img/
+cover-img: /assets/img/registration-banner.png
 share-img: /assets/img/
 ---
 
-# This page is under construction - please try again later
+# In person registration
+
+We are intending to open registration April 1st 2024, please check back here after that date.
 
 
-# [About Genomic Standards Consortium](https://www.gensc.org/)
-![GenSC logo](../assets/img/gsc_logo_sml.png)
 
 
+
+[ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
 
 
 
