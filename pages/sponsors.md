@@ -12,6 +12,7 @@ Attendance for the annual meeting is expected to be between 80-120 participants.
 Scientific vendors will have the opportunity to interact with attendees and speakers during the entire meeting including the opening reception, daily coffee breaks, lunches, and in between sessions. This meeting allows for ample networking time between sponsors and attendees. 
 
 # Sponsorship Level Opportunities:
+A brochure describing the sponsorship opportunities is [available here](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/assets/GSC24-Tucson_Sponsorship_v6.pdf).
 
 ## Bronze Sponsor ($1000) sponsors will receive the following benefits:
 1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
@@ -45,7 +46,8 @@ Scientific vendors will have the opportunity to interact with attendees and spea
 9.	Full-page symposium program advertisement.
 10.	Sponsor representative to join GSC board for GSC24 board dinner.
 
-** Custom Sponsorships are available such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs. We are happy to accommodate! **
+## Custom Sponsorships
+Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc24-tuscon-organisers@googlegroups.com?subject=GSC24 Tucson sponsorship">GSC24 organising committee</a> We are happy to accommodate!
 
 
 
