@@ -5,17 +5,16 @@ cover-img: /assets/img/schedule-banner.png
 share-img: /assets/img/
 ---
 
-# The agenda is still under construction
 
 ## Outline schedule 
 
- * August 5	GSC board meeting – GSC board dinner
- * August 6	GSC main meeting and Opening Reception at Arizona Sonora Desert Museum 
- * August 7 	GSC main meeting and Standards Working Groups 
- * August 8	GSC main meeting and Evening Hike Sabino Canyon
- * August 9	GSC main meeting (half day)
+ * August 5 GSC board meeting – GSC board dinner
+ * August 6 GSC main meeting and Opening Reception at Arizona Sonora Desert Museum 
+ * August 7 GSC main meeting and Standards Working Groups 
+ * August 8 GSC main meeting and Evening Hike Sabino Canyon
+ * August 9 GSC main meeting (half day)
 
-
+The full agenda is still being finalised
 
 ## Meeting Sessions Theme
 
@@ -29,10 +28,12 @@ share-img: /assets/img/
 ## Confirmed Speakers
 
  * [Arvind Varsani](https://search.asu.edu/profile/3050059)
- * Lynn Schriml
- * Ramona Walls 
- * Bonnie Hurwitz
- * Chris Hunter
+ * [Lynn Schriml](https://www.linkedin.com/in/lynn-schriml-1753609/)
+ * [Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/)
+ * [Bonnie Hurwitz](https://www.linkedin.com/in/bonniehurwitz/)
+ * [Chris Hunter](https://www.linkedin.com/in/chr1shunter/)
+ * [Dario Copett](https://www.linkedin.com/in/dario-copetti-65ba528/)
+ * [Karen Rodland](https://www.linkedin.com/in/karen-rodland-5799a34/)
  * More to be confrimed...
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Asia%2FBangkok&mode=WEEK&src=OTkwMGE0M2ZlMzJjNWE3YWU2OTVhOTdkOTRhOWQ0ZDA0Y2FlMWU5M2M5MjVlNDNmYWNlYTVmZGY1YTRhOTAzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Z2Vuc2MtYm9hcmRAZ29vZ2xlZ3JvdXBzLmNvbQ&color=%237CB342&color=%237CB342" style="border:solid 1px #777" width="900" height="600" frameborder="0" scrolling="no"></iframe>
