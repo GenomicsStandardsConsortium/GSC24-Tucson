@@ -16,9 +16,9 @@ Please note, **invited speakers and GSC board members** should NOT register usin
 
 ## Registration Fee
 
-Early bird registration cost $250.00 USD 
-
-Changes to $300.00 after Monday, June 3, 2024
+**Early bird registration cost $250.00 USD**
+  Changes to $300.00 after Monday, June 3, 2024
+**Student registration cost  $200.00 USD**
 
 
 ## Conference Terms and Conditions
