@@ -7,7 +7,7 @@ share-img: /assets/img/
 
 # In person registration
 
-<a href=https://cvent.me/nYzzaR target=_blank >Registration is now open</a>. 
+<a href="https://cvent.me/nYzzaR" target="_blank">Registration is now open</a>. 
 
 By registering you are agreeing to the terms and conditions set out below, please read those careful before completing your registration.
 
@@ -85,7 +85,8 @@ By disclosing your personal information to us when using our web site, or in wri
 
  * We may need to collect information about you to process the registration and provide you with the services you expect. This information may include details such as your name, address/location, e-mail address, and organisational affiliatin.
  * We will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us, or if we are legally required to do so.
- * We do not sell, rent or trade your personal information to third parties for marketing purposes unless you specifically consent to us sharing your details with our event sponsors.
+ * Your name and email address will be shared with our event sponsors unless you opt out during registration or contact us to request to be removed from that list.
+ * We do not otherwise sell, rent or trade your personal information to non-sponsoring third parties for marketing purposes.
  * Your data will be stored in a google-form only accessible by the event organisers and members of the Genomic Standards Consortium board.
  * Your data will be used to contact you with details of the event before, during and after the event date.
 
