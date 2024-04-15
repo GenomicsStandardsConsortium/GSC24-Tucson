@@ -24,7 +24,7 @@ navbar-links:
     - Home: "index"
     - General Information: "pages/about"
     - Organizing committee: "pages/organizers"
-  Registration: "https://cvent.me/nYzzaR"
+  Registration: "pages/registration"
   Sponsors: "pages/sponsors"
   Agenda: 
     - Online Agenda: "pages/schedule"
