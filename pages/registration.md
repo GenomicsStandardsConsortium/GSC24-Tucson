@@ -7,7 +7,7 @@ share-img: /assets/img/
 
 # In person registration
 
-<a href=https://cvent.me/nYzzaR target=_blank >Registration is now open<\a>. 
+<a href=https://cvent.me/nYzzaR target=_blank >Registration is now open</a>. 
 
 By registering you are agreeing to the terms and conditions set out below, please read those careful before completing your registration.
 
