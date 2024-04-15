@@ -22,8 +22,9 @@ Changes to $300.00 after Monday, June 3, 2024
 
 
 ## Conference Terms and Conditions
-<p>Last Updated: 15 April 2024</p>
-<br>
+
+Last Updated: 15 April 2024
+
 ### CONFERENCE ATTENDEES CODE OF CONDUCT
 
 The GSC conference is organized by Genomic Standards Consortium, an open, community organization dedicated to making genomic data discoverable. The GSC is committed to fostering a vibrant, inclusive, and respective environment. All attendees, speakers, organizers and exhibitors/sponsors at GSC events (hereafter known as “attendees”) are expected to abide by this Code of Conduct.
@@ -49,13 +50,13 @@ If you are aware of any violations of the code of conduct, toward yourself or ot
 It is also expected that all attendees will abide by the local laws, rules, regulations, health and safety protocols stipulated by the hosting site or local government, with particular reference to any COVID related rules that may change at short notice.
 
 
-## CHANGES TO THE CONFERENCE, POSTPONEMENT AND CANCELLATIONS
+### CHANGES TO THE CONFERENCE, POSTPONEMENT AND CANCELLATIONS
 
 We reserve the right and shall be entitled to make changes to the conference at any time without liability to you, including without limitation in respect of the advertised content, timings on the day, date, format, venue and/or location of the conference or the advertised speakers. We will keep you informed of any such changes from time to time.
 We reserve the right and shall be entitled, in our sole discretion, to cancel or postpone the date of the conference. We shall give notice of our decision to cancel or postpone the conference via the conference website. No reimbursement of any expenses incurred will be made to participants either in person or virtual.
 
 
-##CONFERENCE CONTENT
+### CONFERENCE CONTENT
 
 Presenters are strongly encouraged to place all content under a CC0 waiver, but attendees should not assume all content is open.
 
@@ -68,14 +69,14 @@ You shall not distribute, reproduce, modify, store, transfer or in any other way
 To the extent that any Content is made available by us online we reserve the right to suspend or remove access to such Content at any time.
 
 
-## FORCE MAJEURE
+### FORCE MAJEURE
 
 We shall not be liable for any hindrance, failure or delay in the conference as a result of an event or series of connected events beyond our reasonable control (including, without limitation, acts of God, extreme weather conditions, power failure, floods, lightning, storm, fire, explosion, war, riot, civil commotion, military operations, acts or threats of terrorism, malicious damage, strike action, lock-outs or other industrial action (whether involving our workforce or the workforce of any other party), default of suppliers or sub-contractors, compliance with any law or governmental order, rule regulation or direction, accident, failure or breakdown of plant, machinery, systems or vehicles, or a pandemic, epidemic, civil emergency or other widespread illness) (“Force Majeure Event”).
 
 In the event of a Force Majeure Event, we shall be entitled, without liability, to vary, suspend, postpone or cancel the conference. We will not be liable for any attendees travel, accomodation or other expenses associated with the meeting.
 
 
-##PRIVACY POLICY AND CONSENT
+### PRIVACY POLICY AND CONSENT
 
 Please find below the data privacy policy which sets out how we use and protect any personal information provided and forms part of our terms and conditions.
 
@@ -90,7 +91,7 @@ By disclosing your personal information to us when using our web site, or in wri
  * Your data will be stored in a google-form only accessible by the event organisers and members of the Genomic Standards Consortium board.
  * Your data will be used to contact you with details of the event before, during and after the event date.
 
-## LINKS TO OTHER WEBSITES
+### LINKS TO OTHER WEBSITES
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
 
