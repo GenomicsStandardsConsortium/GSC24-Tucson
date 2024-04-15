@@ -17,7 +17,10 @@ Please note, **invited speakers and GSC board members** should NOT register usin
 ## Registration Fee
 
 **Early bird registration cost $250.00 USD**
+
   Changes to $300.00 after Monday, June 3, 2024
+
+
 **Student registration cost  $200.00 USD**
 
 
@@ -96,6 +99,9 @@ By disclosing your personal information to us when using our web site, or in wri
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
 
 
+## Click this link to go to the registration site
+
+<a href="https://cvent.me/nYzzaR" target="_blank">Registration is now open</a>. 
 
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
