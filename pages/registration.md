@@ -22,7 +22,7 @@ Changes to $300.00 after Monday, June 3, 2024
 
 
 ## Conference Terms and Conditions
-<p>Last Updated: April 2024</p>
+<p>Last Updated: 15 April 2024</p>
 <br>
 ### CONFERENCE ATTENDEES CODE OF CONDUCT
 
