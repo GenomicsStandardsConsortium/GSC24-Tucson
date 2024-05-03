@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Local Tourist Information
-cover-img: /assets/img/visit-tucson.mp4
+cover-img: /assets/img/visit-tucson.png
 share-img: /assets/img/View_of_Tucson_from_Sentinel_Peak_2.jpg
 ---
 
