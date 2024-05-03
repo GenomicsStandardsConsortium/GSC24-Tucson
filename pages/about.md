@@ -19,8 +19,9 @@ With the recent movement in the FAIR principles arena towards focusing on machin
 ## GSC past meetings
 Please see [GSC23-Bangkok](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/) and [GSC22-Moorea](https://genomicsstandardsconsortium.github.io/GSC22-Moorea/) for the previous two GSC meetings.
 
-## GSC24 Tuscon
-The GSC 2024 annual meeting will be located at the University of Arizona’s Bio5 facility. The GSC24 meeting will focus on Challenges for Reproducibility with sessions for standards in pangenomes and human genomes, along with genomic standards pertinent to personalized medicine, ancient DNA, synthetic meta-genomes, metagenomic dark matter, the virome and physical and metadata standards for microbiome and metagenomics.
+## GSC24 Tucson
+The GSC 2024 annual meeting will be located at the University of Arizona’s Bio5 facility. The GSC24 meeting will focus on Challenges of Reproducibility in Genomics with sessions for Standards in Genomic Reproducibility, Virome standards, IMMSA: A year long discussion on data reuse, Genomics and Standards challenges at UofA, Omics Standards including genomic standards pertinent to pathogens, GA4GH experimental data, proteomics and eDNA and concluding with the Discussion of Challenges to Solutions session. 
+Afternoon Working Groups will include CIG - MIxS standards, GA4GH experimental metadata hackathon, TDWG - CIG interactions, NMDC Field Notes mobile app workshop.
 
 The GSC community includes international delegates working in collaborative groups to provide a forum for developing and implementing community-driven standards in genomics, metabolomics, and bioinformatics. Participants in the GSC include clinicians, biologists, chemists, computer scientists, and groups building genomic and ‘omic databases,  researchers conducting large-scale comparative genomic analyses, and individuals experienced in building community-based genomic standards.
 
@@ -44,7 +45,7 @@ Meeting Sessions Theme:
 
  * Genomic Reproducibility
  * Virome Genomic Standards
- * Challenges of ‘Omic data reuse (international Microbiome and Multi’Omics Standards Alliance) 
+ * Challenges of ‘Omic data reuse (International Microbiome and Multi’Omics Standards Alliance) 
  * Solutions to Genomic Reproducibility and Standards Challenges  
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)

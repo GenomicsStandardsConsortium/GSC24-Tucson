@@ -15,7 +15,7 @@ To contact the organizing committee please <a href="mailto:gsc24-tuscon-organise
 * [Christopher Hunter, GigaScience](https://www.linkedin.com/in/chr1shunter/)
 * [Scott Tighe, University of Vermont](https://www.linkedin.com/in/scott-tighe-094058a/)
 * [Lynn Schriml, University of Maryland](https://www.linkedin.com/in/lynn-schriml-1753609/)
-* [Kasthuri Venkateswaran, NASA-JPL](https://scienceandtechnology.jpl.nasa.gov/people/k_venkateswaran)
+
 
 
 
