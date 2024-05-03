@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Local Transportation
 cover-img: /assets/img/sunlink.jpg
 share-img: /assets/img/sunlink.jpg
