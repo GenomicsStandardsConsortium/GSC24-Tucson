@@ -10,34 +10,34 @@ The meeting will run from 9am Tuesday 6th Aug, and end at lunchtime on Friday 9t
 
 ## Outline schedule 
 
- * August 5 GSC board meeting & GSC board dinner (by invite only).
- * August 6 GSC main meeting and Opening Reception at Arizona Sonora Desert Museum 
-		* Session: Reproducibility challenges
-			[Chris Hunter](https://www.linkedin.com/in/chr1shunter/) (GigaScience) 
-			Susanna Sansone (OICR, Oxford, UK)
-			João Carlos Setubal (University of São Paulo)
-			Elisha Wood-Charlson (Lawrence Berkeley National Laboratory, KBase)
-			Savvas Paragkamian (Institute of Marine Biology, Biotechnology and Aquaculture (IMBBC) )
- * August 7 GSC main meeting and Standards Working Groups 
-		* Session: Virome Genomic Standards
-			[Arvind Varsani](https://search.asu.edu/profile/3050059) (Arizona State University)
-			Simon Roux (DOE Joint Genome Institute)
-		* Session: Omic Standards
-			[Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/) (Critical Path Institute)
-			[Tim Van Den Bossche](https://www.linkedin.com/in/vandenbosschetim) (Ghent University)
-			Peter Woollard (EMBL-EBI)
-			Neil Davies (UC Gump South Pacific Research Station)
- * August 8 GSC main meeting and Evening Hike Sabino Canyon
-		* Session: IMMSA: A year long discussion on data reuse
-			Scott Jackson (NIST - National Institute of Standards and Technolog)
-			Ben Callahan (NC State University, College of Veterinary Medicine)
-			Julie Dunning Hotopp (Institute for Genome Sciences, University of Maryland School of Medicine)
-		* Keynote: Jonathan Eisen (UC Davis Genome Center)
-		* Session: UofA:  Genomics and Standards challenges 
-			Melanie Culver (University of Arizona)
-			[Dario Copett](https://www.linkedin.com/in/dario-copetti-65ba528/) (Arizona Genomics Institute)
- * August 9 GSC main meeting (half day)
-		* Session: Discussion of Challenges to Solutions
+* August 5 GSC board meeting & GSC board dinner (by invite only).
+* August 6 GSC main meeting and Opening Reception at Arizona Sonora Desert Museum 
+  * Session: Reproducibility challenges
+    * [Chris Hunter](https://www.linkedin.com/in/chr1shunter/) (GigaScience) 
+    * Susanna Sansone (OICR, Oxford, UK)
+    * João Carlos Setubal (University of São Paulo)
+    * Elisha Wood-Charlson (Lawrence Berkeley National Laboratory, KBase)
+    * Savvas Paragkamian (Institute of Marine Biology, Biotechnology and Aquaculture (IMBBC) )
+* August 7 GSC main meeting and Standards Working Groups 
+  * Session: Virome Genomic Standards
+    * [Arvind Varsani](https://search.asu.edu/profile/3050059) (Arizona State University)
+    * Simon Roux (DOE Joint Genome Institute)
+  * Session: Omic Standards
+    * [Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/) (Critical Path Institute)
+    * [Tim Van Den Bossche](https://www.linkedin.com/in/vandenbosschetim) (Ghent University)
+    * Peter Woollard (EMBL-EBI)
+    * Neil Davies (UC Gump South Pacific Research Station)
+* August 8 GSC main meeting and Evening Hike Sabino Canyon
+  * Session: IMMSA: A year long discussion on data reuse
+    * Scott Jackson (NIST - National Institute of Standards and Technolog)
+    * Ben Callahan (NC State University, College of Veterinary Medicine)
+    * Julie Dunning Hotopp (Institute for Genome Sciences, University of Maryland School of Medicine)
+  * Keynote: Jonathan Eisen (UC Davis Genome Center)
+  * Session: UofA:  Genomics and Standards challenges 
+    * Melanie Culver (University of Arizona)
+    * [Dario Copett](https://www.linkedin.com/in/dario-copetti-65ba528/) (Arizona Genomics Institute)
+* August 9 GSC main meeting (half day)
+  * Session: Discussion of Challenges to Solutions
 
 
 
