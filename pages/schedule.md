@@ -36,7 +36,7 @@ The meeting will run from:
 * **August 7 GSC main meeting and Standards Working Groups** (**8:45 am - 5:00 pm**)  
   * **Session 2: Virome Genomic Standards**
     * [Stacy Carrington-Lawrence](https://search.asu.edu/profile/3050059) (NIH/NIA/ERP) - NIH Virome
-    * Program
+      Program
     * [Arvind Varsani](https://search.asu.edu/profile/3050059) (Arizona State University)
     * [Simon Roux](https://jgi.doe.gov/our-science/scientists-jgi/simon-roux/) (DOE Joint Genome
       Institute)
@@ -56,7 +56,7 @@ The meeting will run from:
   * **Session 4: Challenges of ‘Omic data reuse - IMMSA** [(International Microbiome and Multi’Omics
       Standards Alliance)](https://www.microbialstandards.org/home) 
     * [Scott Jackson](https://www.nist.gov/people/scott-jackson) (NIST - National Institute of Standards
-      and Technolog)
+      and Technology)
     * [Ben Callahan](https://cvm.ncsu.edu/people/bcallah/) (NC State University, College of Veterinary
       Medicine)
     * [Julie Dunning Hotopp](https://www.medschool.umaryland.edu/profiles/dunning-hotopp-julie-c/) (Institute for Genome Sciences, University of Maryland School of Medicine)
