@@ -45,7 +45,7 @@ The meeting will run from:
     * [Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/) (Critical Path Institute)
     * [Tim Van Den Bossche](https://www.linkedin.com/in/vandenbosschetim) (Ghent University)
     * [Peter Woollard](https://www.embl.org/people/person/peter-woollard/) (EMBL-EBI)
-    * [Neil Davies](https://www.moorea.berkeley.edu/people/Neil-Davies) (UC Gump South Pacific Research
+    * [Neil Davies](https://www.moorea.berkeley.edu/people/Neil-Davies) (Gump South Pacific Research
       Station)
       
     * **Afternoon Working Groups**
@@ -60,6 +60,7 @@ The meeting will run from:
     * [Ben Callahan](https://cvm.ncsu.edu/people/bcallah/) (NC State University, College of Veterinary
       Medicine)
     * [Julie Dunning Hotopp](https://www.medschool.umaryland.edu/profiles/dunning-hotopp-julie-c/) (Institute for Genome Sciences, University of Maryland School of Medicine)
+      
   * **Keynote: [Jonathan Eisen](https://biology.ucdavis.edu/people/jonathan-eisen) (UC Davis Genome Center)**
   * **11:00 am: IMMSA Panel Discussion Panel: Data reuse challenges identified in the last year.**
     
@@ -74,6 +75,7 @@ The meeting will run from:
      * **3:30-5:30 Workshops:** iSamples, OmicBON
    
   * **6:00 pm: Optional Hiking Outing- Sabino Canyo**
+
     
 * **August 9 GSC main meeting** (half day) (8:45am-1:00pm)
   * **Keynote: [Rachel Gallery](https://nature.arizona.edu/rachel-gallery) (University of Arizona)**
