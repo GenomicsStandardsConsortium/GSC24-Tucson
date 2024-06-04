@@ -7,21 +7,15 @@ share-img: /assets/img/
 
 # In person registration
 
-<a href="https://cvent.me/nYzzaR" target="_blank">Registration is now open</a>. 
+<a href="https://cvent.me/nYzzaR" target="_blank">**Registration is open through July 15th, 2024**</a>. 
 
-By registering you are agreeing to the terms and conditions set out below, please read those careful before completing your registration.
-
-
-Please note, **invited speakers and GSC board members** should NOT register using the above link, please contact the organisers if you have not had registration details sent to you already.
+By registering you are agreeing to the terms and conditions set out below, please read those careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using the above link, please contact the organisers if you have not had registration details sent to you already.
 
 ## Registration Fee
 
-**Early bird registration cost $250.00 USD**
+**Registration cost: $300 USD**
 
-  Changes to $300.00 after Monday, June 3, 2024
-
-
-**Student registration cost  $200.00 USD**
+**Student registration cost  $200 USD**
 
 
 ## Conference Terms and Conditions
