@@ -16,6 +16,7 @@ By registering you are agreeing to the terms and conditions set out below, pleas
 **Registration cost: $300 USD**
 
 **Student registration cost: $200 USD**
+
 Note: We are offering a reduced rate to students and postdoctoral fellows.
 
 
