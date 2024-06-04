@@ -5,53 +5,79 @@ cover-img: /assets/img/schedule-banner.png
 share-img: /assets/img/
 ---
 
-The full agenda is still being finalised. 
-The meeting will run from 9am Tuesday 6th Aug, and end at lunchtime on Friday 9th August 2024, and will include the following:
+The meeting will run from: 
+     **9am Tuesday August 6th through lunchtime on Friday August 9th, 2024.**
 
-## Outline schedule 
+## Agenda Schedule 
 
-* August 5 GSC board meeting & GSC board dinner (by invite only).
-* August 6 GSC main meeting and Opening Reception at Arizona Sonora Desert Museum 
-  * Session: Reproducibility challenges
+* **August 5 GSC board meeting** [Bio5](https://bio5.org/)
+    * 1:00-4:00 pm: Board Meeting; Board Dinner [Seis Kitchem](https://www.seiskitchen.com/)
+
+* **August 6 GSC main meeting** (**8:45 am - 5:00 pm**) 
+  * **Session 1: Reproducibility Challenges**
+    * **Keynote: J. [Gregory Caporaso](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (The
+      Translational Genomics Research Institute)**
     * [Chris Hunter](https://www.linkedin.com/in/chr1shunter/) (GigaScience) 
-    * Susanna Sansone (OICR, Oxford, UK)
-    * João Carlos Setubal (University of São Paulo)
-    * Elisha Wood-Charlson (Lawrence Berkeley National Laboratory, KBase)
-    * Savvas Paragkamian (Institute of Marine Biology, Biotechnology and Aquaculture (IMBBC) )
-* August 7 GSC main meeting and Standards Working Groups 
-  * Session: Virome Genomic Standards
+    * [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/) (OICR, University
+      of Oxford, UK)
+    * [João Carlos Setubal](https://www.iq.usp.br/setubal/index-en.html) (University of São Paulo)
+    * [Elisha Wood-Charlson](https://www.kbase.us/team/) (Lawrence Berkeley National Laboratory, KBase)
+    * [Savvas Paragkamian](https://imbbc.hcmr.gr/user/s-paragkamian/) (Institute of Marine Biology,
+      Biotechnology and Aquaculture (IMBBC))
+ 
+    * **1:15-3:00 pm: Reproductibility Challenges panel discussion**
+    * **Afternoon Working Groups**
+    * **3:30-5:30 Workshops:**
+       * CIG - MIxS standards & GA4GH experimental metadata hackathon
+      
+    * **6:00-8:00 pm**: Opening Reception at [Arizona Sonora Desert Museum](https://desertmuseum.org/)
+       * Transportation provided, departing from Bio5
+         
+* **August 7 GSC main meeting and Standards Working Groups** (**8:45 am - 5:00 pm**)  
+  * **Session 2: Virome Genomic Standards**
+    * [Stacy Carrington-Lawrence](https://search.asu.edu/profile/3050059) (NIH/NIA/ERP) - NIH Virome
+    * Program
     * [Arvind Varsani](https://search.asu.edu/profile/3050059) (Arizona State University)
-    * Simon Roux (DOE Joint Genome Institute)
-  * Session: Omic Standards
+    * [Simon Roux](https://jgi.doe.gov/our-science/scientists-jgi/simon-roux/) (DOE Joint Genome
+      Institute)
+
+  * **Session 3: Omic Standards**
     * [Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/) (Critical Path Institute)
     * [Tim Van Den Bossche](https://www.linkedin.com/in/vandenbosschetim) (Ghent University)
-    * Peter Woollard (EMBL-EBI)
-    * Neil Davies (UC Gump South Pacific Research Station)
-* August 8 GSC main meeting and Evening Hike Sabino Canyon
-  * Session: IMMSA: A year long discussion on data reuse
-    * Scott Jackson (NIST - National Institute of Standards and Technolog)
-    * Ben Callahan (NC State University, College of Veterinary Medicine)
-    * Julie Dunning Hotopp (Institute for Genome Sciences, University of Maryland School of Medicine)
-  * Keynote: Jonathan Eisen (UC Davis Genome Center)
-  * Session: UofA:  Genomics and Standards challenges 
-    * Melanie Culver (University of Arizona)
-    * [Dario Copett](https://www.linkedin.com/in/dario-copetti-65ba528/) (Arizona Genomics Institute)
-* August 9 GSC main meeting (half day)
-  * Session: Discussion of Challenges to Solutions
+    * [Peter Woollard](https://www.embl.org/people/person/peter-woollard/) (EMBL-EBI)
+    * [Neil Davies](https://www.moorea.berkeley.edu/people/Neil-Davies) (UC Gump South Pacific Research
+      Station)
+      
+    * **Afternoon Working Groups**
+    * **3:30-5:30 Workshops:** 
+       * TDWG - CIG interactions & NMDC  Field Notes mobile app workshop
+      
+* **August 8 GSC main meeting** (**8:45 am - 5:00 pm**)
+  * **Session 4: Challenges of ‘Omic data reuse - IMMSA** [(International Microbiome and Multi’Omics
+      Standards Alliance)](https://www.microbialstandards.org/home) 
+    * [Scott Jackson](https://www.nist.gov/people/scott-jackson) (NIST - National Institute of Standards
+      and Technolog)
+    * [Ben Callahan](https://cvm.ncsu.edu/people/bcallah/) (NC State University, College of Veterinary
+      Medicine)
+    * [Julie Dunning Hotopp](https://www.medschool.umaryland.edu/profiles/dunning-hotopp-julie-c/) (Institute for Genome Sciences, University of Maryland School of Medicine)
+  * **Keynote: [Jonathan Eisen](https://biology.ucdavis.edu/people/jonathan-eisen) (UC Davis Genome Center)**
+  * **11:00 am: IMMSA Panel Discussion Panel: Data reuse challenges identified in the last year.**
+    
+  * **Session 5: UofA:  Genomics and Standards challenges** (1:00 pm)
+    * [Melanie Culver](https://nature.arizona.edu/melanie-culver) (University of Arizona)
+    * [Dario Copetti](https://www.linkedin.com/in/dario-copetti-65ba528/) (Arizona Genomics Institute)
+    * [Ryan Bartelme](https://www.linkedin.com/in/ryan-bartelme/) (Pivot Bio)
 
-
-
-## Meeting Sessions Theme
-
- * Reproducibility challenges
- * Virome Genomic Standards
- * Omic Standards
- * IMMSA (International Microbiome and Multi’Omics Standards Alliance): A year long discussion on data reuse
- * Discussions of Challenges to solutions in Genomic Reproducibility and Standards 
- * various Working group sessions
-
-
-
+  * **2:00 pm Keynote: [Jack Gilbert](https://gilbertlab.ucsd.edu/) (UCSD)**
+ 
+  * **Afternoon Working Groups**
+     * **3:30-5:30 Workshops:** iSamples, OmicBON
+   
+  * **6:00 pm: Optional Hiking Outing- Sabino Canyo**
+    
+* **August 9 GSC main meeting** (half day) (8:45am-1:00pm)
+  * **Keynote: [Rachel Gallery](https://nature.arizona.edu/rachel-gallery) (University of Arizona)**
+  * **Session 6: Discussion of Reproducibility Challenges to Solutions**
 
 
 
