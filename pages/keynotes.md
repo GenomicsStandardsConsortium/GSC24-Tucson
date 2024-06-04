@@ -5,11 +5,19 @@ cover-img: /assets/img/keynote-banner.png
 share-img: /assets/img/keynote-banner.png
 ---
 
-# Keynote Speakers
+# (Session) Keynote Speakers
 
-[Jonathan Eisen](https://linktr.ee/jonathaneisen) will present the keynote in the special session "[IMMSA](www.immsa.org): A year long discussion on data reuse".
+* Session 1: Reproducibility Challenges
+[**J. Gregory Caporaso**[(https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (The Translational Genomics Research Institute)
 
+* Session 4: Challenges of ‘Omic data reuse - IMMSA
+[**Jonathan Eisen**](https://biology.ucdavis.edu/people/jonathan-eisen) (UC Davis Genome Center)
 
+* Session 5: Genomics and Standards challenges
+[**Jack Gilbert**](https://gilbertlab.ucsd.edu/) (UCSD)
+
+* Session 6: Reproducibility Challenges to Solutions
+[**Rachel Gallery**](https://nature.arizona.edu/rachel-gallery) (University of Arizona)
 
 
 # Dawn Field Awardee 
