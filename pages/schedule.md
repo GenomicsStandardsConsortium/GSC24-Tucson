@@ -22,7 +22,7 @@ The meeting will run from:
       of Oxford, UK)
     * [João Carlos Setubal](https://www.iq.usp.br/setubal/index-en.html) (University of São Paulo)
     * [Elisha Wood-Charlson](https://www.kbase.us/team/) (Lawrence Berkeley National Laboratory, KBase)
-    * [Taukondjo Shikongo](https://enb.iisd.org/10-years-nagoya-protocol-successes-challenges-looking-forward) ([Convention on Biological Diversity])(https://www.cbd.int)
+    * [Taukondjo Shikongo](https://enb.iisd.org/10-years-nagoya-protocol-successes-challenges-looking-forward) [(Convention on Biological Diversity)](https://www.cbd.int)
     * [Savvas Paragkamian](https://imbbc.hcmr.gr/user/s-paragkamian/) (Institute of Marine Biology,
       Biotechnology and Aquaculture (IMBBC))
  
