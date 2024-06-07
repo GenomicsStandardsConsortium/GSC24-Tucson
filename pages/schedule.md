@@ -15,13 +15,14 @@ The meeting will run from:
 
 * **August 6 GSC main meeting** (**8:45 am - 5:00 pm**) 
   * **Session 1: Reproducibility Challenges**
-    * **Keynote: [J. Gregory Caporaso](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (The
+    * **Keynote: [Greg Caporaso](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (The
       Translational Genomics Research Institute)**
     * [Chris Hunter](https://www.linkedin.com/in/chr1shunter/) (GigaScience) 
     * [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/) (OICR, University
       of Oxford, UK)
     * [João Carlos Setubal](https://www.iq.usp.br/setubal/index-en.html) (University of São Paulo)
     * [Elisha Wood-Charlson](https://www.kbase.us/team/) (Lawrence Berkeley National Laboratory, KBase)
+    * [Taukondjo Shikongo](https://enb.iisd.org/10-years-nagoya-protocol-successes-challenges-looking-forward) ([Convention on Biological Diversity](https://www.cbd.int)
     * [Savvas Paragkamian](https://imbbc.hcmr.gr/user/s-paragkamian/) (Institute of Marine Biology,
       Biotechnology and Aquaculture (IMBBC))
  
@@ -47,6 +48,7 @@ The meeting will run from:
     * [Peter Woollard](https://www.embl.org/people/person/peter-woollard/) (EMBL-EBI)
     * [Neil Davies](https://www.moorea.berkeley.edu/people/Neil-Davies) (Gump South Pacific Research
       Station)
+    * [Briana Benton](https://www.atcc.org/blogs/2024/taxonomic-classification-can-sometimes-be-a-strain) (ATCC)
       
     * **Afternoon Working Groups**
     * **3:30-5:30 Workshops:** 
