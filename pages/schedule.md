@@ -11,7 +11,7 @@ The meeting will run from:
 ## Agenda Schedule 
 
 * **August 5 GSC board meeting** [Bio5](https://bio5.org/)
-    * 1:00-4:00 pm: Board Meeting; Board Dinner [Seis Kitchem](https://www.seiskitchen.com/)
+    * 1:00-4:00 pm: Board Meeting; Board Dinner [Seis Kitchen](https://www.seiskitchen.com/)
 
 * **August 6 GSC main meeting** (**8:45 am - 5:00 pm**) 
   * **Session 1: Reproducibility Challenges**
