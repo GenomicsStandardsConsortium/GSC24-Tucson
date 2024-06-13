@@ -19,6 +19,11 @@ By registering you are agreeing to the terms and conditions set out below, pleas
 
 Note: We are offering a reduced rate to students and postdoctoral fellows.
 
+## Virtual Registration (free)
+
+If you are unable to attend in person we will be offering a live stream of the main sessions (mornings local time), but not the working group sessions(afternoons local time).
+To register your interst in the live stream please add your [details to this form](https://docs.google.com/spreadsheets/d/1B2zPaD61w38u9V3LehDGoGO1OYg1uLHghCAdG9NXGOI/edit?usp=sharing) so that we can send you the Zoom details nearer the time.
+
 
 ## Conference Terms and Conditions
 
