@@ -8,7 +8,7 @@ share-img: /assets/img/keynote-banner.png
 # (Session) Keynote Speakers
 
 * Session 1: Reproducibility Challenges
-[**J. Gregory Caporaso**](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (The Translational Genomics Research Institute)
+[**J. Gregory Caporaso**](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (Northern Arizona University, The Translational Genomics Research Institute)
 
 * Session 4: Challenges of ‘Omic data reuse - IMMSA
 [**Jonathan Eisen**](https://biology.ucdavis.edu/people/jonathan-eisen) (UC Davis Genome Center)
