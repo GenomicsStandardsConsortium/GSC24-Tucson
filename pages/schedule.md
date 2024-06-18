@@ -15,8 +15,7 @@ The meeting will run from:
 
 * **August 6 GSC main meeting** (**8:45 am - 5:00 pm**) 
   * **Session 1: Reproducibility Challenges**
-    * **Keynote: [Greg Caporaso](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (The
-      Translational Genomics Research Institute)**
+    * **Keynote: [Greg Caporaso](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (Northern Arizona University, The Translational Genomics Research Institute)**
     * [Chris Hunter](https://www.linkedin.com/in/chr1shunter/) (GigaScience) 
     * [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/) (OICR, University
       of Oxford, UK)
