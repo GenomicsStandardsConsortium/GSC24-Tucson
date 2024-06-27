@@ -5,21 +5,19 @@ cover-img: /assets/img/sponsor-banner.png
 share-img: /assets/img/
 ---
 
-## Platinum Sponsor
- ![PlatinumSponsorLogo](../assets/img/PlatinumSponsor.png|width=150)
 
-## Gold Sponsor
- ![GoldSponsorLogo](../assets/img/GoldSponsor.png|width=150)
+ ![PlatinumSponsor](./images/PlatinumSponsor.png)
 
-## Silver Sponsor
+
+ ![GoldSponsor](./images/GoldSponsor.png)
+
+
  ![SilverSponsor](./images/SilverSponsor.png) 
 
 [ ![SilverSponsorsATCC](images/ATCC_logo_v2.jpg) ](https://www.atcc.org/)
 
-<a href="https://www.atcc.org/" target=_blank><img src="images/ATCC_logo_v2.jpg" alt="ATCC silver sponsors" width=250></a>
 
-## Bronze Sponsor
- ![BronzeSponsorLogo](/images/BronzeSponsor.png | width=150)
+ ![BronzeSponsor](./images/BronzeSponsor.png)
 
 
 # Sponsorship opportunities
