@@ -23,9 +23,10 @@ TBC
 
 --
 
-<img src="/assets/img/SilverSponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
+![Silver sponsor Logo](assets/img/SilverSponsor.png | width="150")
 
-<img src="/assets/img/ATCC_logo_v2.jpg" alt="Silver sponsor:ATCC" width="250" height="250" style="vertical-align:middle;margin:11px 11px">
+![Silver sponsor:ATCC](/assets/img/ATCC_logo_v2.jpg | width="250")
+
 
 --
 
