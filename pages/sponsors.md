@@ -16,6 +16,8 @@ share-img: /assets/img/
 
  [![Silver-sponsors-ATCC](https://github.com/GenomicsStandardsConsortium/GSC24-Tucson/blob/main/assets/img/ATCC_logo_v2.jpg|width=250)](https://www.atcc.org/)
 
+<a href="https://www.atcc.org/" target=_blank><img src="https://github.com/GenomicsStandardsConsortium/GSC24-Tucson/blob/main/assets/img/ATCC_logo_v2.jpg" alt="ATCC silver sponsors" width=250></a>
+
 ## Bronze Sponsor
  ![BronzeSponsorLogo](../assets/img/BronzeSponsor.png|width=150)
 
