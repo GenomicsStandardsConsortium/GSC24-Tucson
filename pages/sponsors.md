@@ -8,17 +8,21 @@ share-img: /assets/img/
 
  ![PlatinumSponsor](./images/PlatinumSponsor.png)
 
+___
 
  ![GoldSponsor](./images/GoldSponsor.png)
 
+___
 
  ![SilverSponsor](./images/SilverSponsor.png) 
 
 [ ![SilverSponsorsATCC](images/ATCC_logo_v2.jpg) ](https://www.atcc.org/)
 
+___
 
- ![BronzeSponsor](./images/BronzeSponsor.png)
+ ![BronzeSponsor](./images/BronzeSponsor.png | width=150)
 
+___
 
 # Sponsorship opportunities
 
