@@ -18,10 +18,12 @@ ___
 
 [ ![SilverSponsorsATCC](images/ATCC_logo_v2.jpg) ](https://www.atcc.org/)
 
+[ ![SilverSponsorsATCC](images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
+
 ___
 
- ![BronzeSponsor](./images/BronzeSponsor.png\|width=150)
- <img src="./images/BronzeSponsor.png" width="150">
+ ![BronzeSponsor](./images/BronzeSponsor.png)
+
 
 ___
 
