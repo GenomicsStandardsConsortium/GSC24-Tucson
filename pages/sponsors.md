@@ -11,30 +11,16 @@ This meeting is intended for academic, corporate, and government professionals i
 Attendance for the annual meeting is expected to be between 80-120 participants. We envisage a total of between 10 and 20 sponsors of all levels, with 5 to 8 of those at the Platinum sponsor level. 
 Scientific vendors will have the opportunity to interact with attendees and speakers during the entire meeting including the opening reception, daily coffee breaks, lunches, and in between sessions. This meeting allows for ample networking time between sponsors and attendees. 
 
-<img src="/assets/img/PlatinumSponsor.png" alt="Platinum sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
+![Platinum sponsor Logo](/assets/img/PlatinumSponsor.png | width=150)
 
-TBC
+![Gold sponsor Logo](/assets/img/GoldSponsor.png | width=150)
 
---
+![Silver sponsor Logo](assets/img/SilverSponsor.png | width=150)
 
-<img src="/assets/img/GoldSponsor.png" alt="Gold sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
+![Silver sponsor:ATCC](/assets/img/ATCC_logo_v2.jpg | width=250)
 
-TBC
+![Bronze sponsor Logo](/assets/img/BronzeSponsor.png | width=150)
 
---
-
-![Silver sponsor Logo](assets/img/SilverSponsor.png | width="150")
-
-![Silver sponsor:ATCC](/assets/img/ATCC_logo_v2.jpg | width="250")
-
-
---
-
-<img src="/assets/img/BronzeSponsor.png" alt="Bronze sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
-
-TBC
-
--- 
 
 
 # Sponsorship Level Opportunities:
