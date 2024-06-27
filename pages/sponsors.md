@@ -20,7 +20,8 @@ ___
 
 ___
 
- ![BronzeSponsor](./images/BronzeSponsor.png | width=150)
+ ![BronzeSponsor](./images/BronzeSponsor.png\|width=150)
+ <img src="./images/BronzeSponsor.png" width="150">
 
 ___
 
