@@ -16,8 +16,6 @@ ___
 
  ![SilverSponsor](./images/SilverSponsor.png) 
 
-[ ![SilverSponsorsATCC](images/ATCC_logo_v2.jpg) ](https://www.atcc.org/)
-
 [ ![SilverSponsorsATCC](images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
 
 ___
