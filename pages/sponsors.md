@@ -5,26 +5,26 @@ cover-img: /assets/img/sponsor-banner.png
 share-img: /assets/img/
 ---
 
+## Platinum Sponsor
+ ![PlatinumSponsorLogo](../assets/img/PlatinumSponsor.png|width=150)
+
+## Gold Sponsor
+ ![GoldSponsorLogo](../assets/img/GoldSponsor.png|width=150)
+
+## Silver Sponsor
+ ![Silver-sponsor-Logo](../assets/img/SilverSponsor.png|width=150) 
+
+ [![Silver-sponsors-ATCC](https://github.com/GenomicsStandardsConsortium/GSC24-Tucson/blob/main/assets/img/ATCC_logo_v2.jpg|width=250)](https://www.atcc.org/)
+
+## Bronze Sponsor
+ ![BronzeSponsorLogo](../assets/img/BronzeSponsor.png|width=150)
+
+
 # Sponsorship opportunities
 
 This meeting is intended for academic, corporate, and government professionals in the fields of medical genomics, environmental genomics, metagenomics, and microbiome sciences, tackling technical, metadata, and reproducibility challenges related to sample collection, processing, and genomic sequencing workflows critical for small- and large-scale datasets. It is our intention to discuss and plan for evolving genomic and laboratory standards to address the needs of clinical, academic, and industry researchers with a focus on precision medicine and agriculture. 
 Attendance for the annual meeting is expected to be between 80-120 participants. We envisage a total of between 10 and 20 sponsors of all levels, with 5 to 8 of those at the Platinum sponsor level. 
 Scientific vendors will have the opportunity to interact with attendees and speakers during the entire meeting including the opening reception, daily coffee breaks, lunches, and in between sessions. This meeting allows for ample networking time between sponsors and attendees. 
-
-
-## Platinum Sponsor
-![PlatinumSponsorLogo](../assets/img/PlatinumSponsor.png|width=150)
-
-## Gold Sponsor
-![GoldSponsorLogo](../assets/img/GoldSponsor.png|width=150]
-
-## Silver Sponsor
-![Silver-sponsor-Logo](../assets/img/SilverSponsor.png|width=150) 
-
-[ ![Silver-sponsor:ATCC](../assets/img/ATCC_logo_v2.jpg|width=250) ](https://www.atcc.org/)
-
-## Bronze Sponsor
-![BronzeSponsorLogo](../assets/img/BronzeSponsor.png|width=150]
 
 
 
