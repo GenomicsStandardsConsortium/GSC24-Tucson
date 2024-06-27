@@ -17,11 +17,11 @@ Scientific vendors will have the opportunity to interact with attendees and spea
 
 <img src="/assets/img/GoldSponsor.png" alt="Gold sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
 
+![Google-map-screenshot.png](../assets/img/Google-map-screenshot.png) 
 
+![Silver sponsor Logo](../assets/img/SilverSponsor.png|width=150) 
 
-![Silver sponsor Logo](../assets/img/SilverSponsor.png|width=150)
-
-![Silver sponsor:ATCC](../assets/img/ATCC_logo_v2.jpg|width=250)
+[ ![Silver sponsor:ATCC](../assets/img/ATCC_logo_v2.jpg|width=250)](https://www.atcc.org/)
 
 
 <img src="/assets/img/BronzeSponsor.png" alt="Bronze sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
