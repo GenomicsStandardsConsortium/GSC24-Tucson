@@ -12,14 +12,14 @@ share-img: /assets/img/
  ![GoldSponsorLogo](../assets/img/GoldSponsor.png|width=150)
 
 ## Silver Sponsor
- ![Silver-sponsor-Logo](../assets/img/SilverSponsor.png|width=150) 
+ ![SilverSponsor](/assets/img/SilverSponsor.png) 
 
- [![Silver-sponsors-ATCC](/assets/img/ATCC_logo_v2.jpg)](https://www.atcc.org/)
+[ ![SilverSponsorsATCC](/assets/img/ATCC_logo_v2.jpg) ](https://www.atcc.org/)
 
 <a href="https://www.atcc.org/" target=_blank><img src="/assets/img/ATCC_logo_v2.jpg" alt="ATCC silver sponsors" width=250></a>
 
 ## Bronze Sponsor
- ![BronzeSponsorLogo](../assets/img/BronzeSponsor.png|width=150)
+ ![BronzeSponsorLogo](../assets/img/BronzeSponsor.png | width=150)
 
 
 # Sponsorship opportunities
