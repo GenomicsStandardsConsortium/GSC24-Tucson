@@ -13,4 +13,3 @@ jobs:
         run: bundle install && bundle exec appraisal install
       - name: Build site
         run: bundle exec appraisal jekyll build --future
-        
