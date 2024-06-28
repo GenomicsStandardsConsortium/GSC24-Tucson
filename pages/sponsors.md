@@ -12,7 +12,7 @@ share-img: /assets/img/
 
 ___
 
- ![GoldSponsor](./images/GoldSponsor.png)
+ ![GoldSponsor](./images/GoldSponsor-500.png)
 
 [ ![QiagenGold](./images/qiagen-logo-250.jpg) ](https://www.qiagen.com/)
 
@@ -20,13 +20,13 @@ ___
 
 ___
 
- ![SilverSponsor](./images/SilverSponsor.png) 
+ ![SilverSponsor](./images/SilverSponsor-500.png) 
 
 [ ![SilverSponsorsATCC](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
 
 ___
 
- ![BronzeSponsor](./images/BronzeSponsor.png)
+ ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
 [ ![n6tecBronze](./images/n6tec-250.jpg) ](https://www.n6tec.com/)
 
