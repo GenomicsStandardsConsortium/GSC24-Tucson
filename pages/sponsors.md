@@ -8,20 +8,26 @@ share-img: /assets/img/
 
  ![PlatinumSponsor](./images/PlatinumSponsor.png)
 
+[ ![ZymoPlatinum](./images/ZymoResearch-250.jpg) ](https://zymoresearch.eu/)
+
 ___
 
  ![GoldSponsor](./images/GoldSponsor.png)
 
+[ ![QiagenGold](./images/qiagen-logo-250.jpg) ](https://www.qiagen.com/)
+
+[ ![GigaSciencePressGold](./images/GSPress-250.jpg) ](https://www.gigasciencepress.org/)
 ___
 
  ![SilverSponsor](./images/SilverSponsor.png) 
 
-[ ![SilverSponsorsATCC](images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
+[ ![SilverSponsorsATCC](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
 
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor.png)
 
+[ ![n6tecBronze](./images/n6tec-250.jpg) ](https://www.n6tec.com/)
 
 ___
 
