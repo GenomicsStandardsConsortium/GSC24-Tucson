@@ -11,7 +11,7 @@ The meeting will run from:
 ## Agenda Schedule 
 
 * **August 5 GSC board meeting** [Bio5](https://bio5.org/)
-    * 1:00-4:00 pm: Board Meeting; Board Dinner [Seis Kitchen](https://www.seiskitchen.com/)
+    * 1:00-4:00 pm: Board Meeting; Board Dinner
 
 * **August 6 GSC main meeting** (**8:45 am - 5:00 pm**) 
   * **Session 1: Reproducibility Challenges**
@@ -75,7 +75,7 @@ The meeting will run from:
   * **Afternoon Working Groups**
      * **3:30-5:30 Workshops:** iSamples, OmicBON
    
-  * **6:00 pm: Optional Hiking Outing- Sabino Canyo**
+<!--  * **6:00 pm: Optional Hiking Outing- Sabino Canyo**-->
 
     
 * **August 9 GSC main meeting** (half day) (8:45am-1:00pm)
