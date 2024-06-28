@@ -6,7 +6,7 @@ share-img: /assets/img/
 ---
 
 
- ![PlatinumSponsor](./images/PlatinumSponsor.png)
+ ![PlatinumSponsor](./images/PlatinumSponsor-500.png)
 
 [ ![ZymoPlatinum](./images/ZymoResearch-250.jpg) ](https://zymoresearch.eu/)
 
@@ -17,6 +17,7 @@ ___
 [ ![QiagenGold](./images/qiagen-logo-250.jpg) ](https://www.qiagen.com/)
 
 [ ![GigaSciencePressGold](./images/GSPress-250.jpg) ](https://www.gigasciencepress.org/)
+
 ___
 
  ![SilverSponsor](./images/SilverSponsor.png) 
