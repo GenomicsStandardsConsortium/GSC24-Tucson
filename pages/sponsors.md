@@ -18,6 +18,8 @@ ___
 
 [ ![GigaSciencePressGold](./images/GSPress-250.jpg) ](https://www.gigasciencepress.org/)
 
+[ ![ElementBiosciencesGold](./images/ElementBiosciences-logo-250.png) ](https://www.elementbiosciences.com/)
+
 ___
 
  ![SilverSponsor](./images/SilverSponsor-500.png) 
