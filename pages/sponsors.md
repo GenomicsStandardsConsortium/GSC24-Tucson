@@ -32,7 +32,7 @@ ___
 
 [ ![n6tecBronze](./images/n6tec-250.jpg) ](https://www.n6tec.com/)
 
-[! [SingularBronze](./images/SingularGenomics-250.jpg) ](https://singulargenomics.com/)
+[ ![SingularBronze](./images/SingularGenomics-250.jpg) ](https://singulargenomics.com/)
 
 
 ___
