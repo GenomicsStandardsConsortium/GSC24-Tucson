@@ -8,7 +8,7 @@ share-img: /assets/img/
 
  ![PlatinumSponsor](./images/PlatinumSponsor-500.png)
 
-[ ![ZymoPlatinum](./images/ZymoResearch-250.jpg) ](https://zymoresearch.eu/)
+[ ![ZymoPlatinum](./images/ZymoResearch-yellow-250.jpg) ](https://zymoresearch.eu/)
 
 ___
 
