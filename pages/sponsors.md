@@ -34,6 +34,7 @@ ___
 
 [ ![SingularBronze](./images/SingularGenomics-250.jpg) ](https://singulargenomics.com/)
 
+[ ![OneCodexBronze](./images/one-codex-250.jpg) ](https://www.onecodex.com/)
 
 ___
 
