@@ -24,7 +24,7 @@ The meeting will run from:
     * 11:00-11:20 [João Carlos Setubal](https://www.iq.usp.br/setubal/index-en.html) (University of São Paulo)
     * 11:20-11:40 [Elisha Wood-Charlson](https://www.kbase.us/team/) (Lawrence Berkeley National Laboratory, KBase)
     * 11:40-12:00 [Taukondjo Shikongo](https://enb.iisd.org/10-years-nagoya-protocol-successes-challenges-looking-forward) [(Convention on Biological Diversity)](https://www.cbd.int)
-    * 12:00-1:30 	Lunch
+    * 12:00-1:30 pm 	Lunch
     * 1:30-2:00 Dawn Field Award: [Savvas Paragkamian](https://imbbc.hcmr.gr/user/s-paragkamian/) (Institute of Marine Biology,Biotechnology and Aquaculture (IMBBC))
     * 2:00-3:00 pm: Reproductibility Challenges panel discussion
     * 3:00-3:30	Coffee Break & Group Photo
@@ -48,7 +48,7 @@ The meeting will run from:
     * 11:00-11:20 [Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/) (Critical Path Institute)
     * 11:20-11:40 [Ruth Timme](https://www.linkedin.com/in/ruth-e-timme-2615248/) (FDA, Office of Regulatory Science)
     * 11:40-12:00 [Tim Van Den Bossche](https://www.linkedin.com/in/vandenbosschetim) (Ghent University)
-    * 12:00-1:00pm	Lunch
+    * 12:00-1:00 pm	Lunch
     * 1:00-1:20 [Peter Woollard](https://www.embl.org/people/person/peter-woollard/) (EMBL-EBI)
     * 1:20-1:40 [Neil Davies](https://www.moorea.berkeley.edu/people/Neil-Davies) (Gump South Pacific Research
       Station)
@@ -68,26 +68,27 @@ The meeting will run from:
     * 9:50-10:30	Coffee Break
       
   * 10:30-11:00	**Keynote: [Jonathan Eisen](https://biology.ucdavis.edu/people/jonathan-eisen) (UC Davis Genome Center)**
-  * 11:00-12:00 pm IMMSA Panel Discussion Panel: Data reuse challenges identified in the last year.
-  * 12:00-1:00	Lunch
+  * 11:00-12:00 IMMSA Panel Discussion Panel: Data reuse challenges identified in the last year.
+  * 12:00-1:00 pm	Lunch
     
-  * **Session 5: UofA:  Genomics and Standards challenges**
+  * **Session 5: Genomics and Standards challenges**
     * 1:00-1:20 [Melanie Culver](https://nature.arizona.edu/melanie-culver) (University of Arizona)
     * 1:20-1:40 [Dario Copetti](https://www.linkedin.com/in/dario-copetti-65ba528/) (Arizona Genomics Institute)
     * 1:40-2:00 [Ryan Bartelme](https://www.linkedin.com/in/ryan-bartelme/) (Pivot Bio)
 
   * 2:00-2:30 pm **Keynote: [Jack Gilbert](https://gilbertlab.ucsd.edu/) (UCSD)**
   * 2:30-3:30	Coffee Break
-  * 3:30-5:00 Workshops:** Afternoon Working Groups**: iSamples, OmicBON
+  * 3:30-5:00 Afternoon Working Groups: iSamples, OmicBON
    
  
 * **Friday, August 9 GSC main meeting**
 * 8:45 		Handoff GSC26
   * 9:00-9:30 **Keynote: [Rachel Gallery](https://nature.arizona.edu/rachel-gallery) (University of Arizona)**
   * 9:30-10:00	Coffee Break
+    
   * **Session 6: Discussion of Reproducibility Challenges to Solutions**
   * 10:00-12:00	Discussion of Challenges to Solutions
-  * 12:00 Lunch
+  * 12:00 pm Lunch
 
 
 
