@@ -26,6 +26,8 @@ ___
 
 [ ![SilverSponsorsATCC](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
 
+[ ![SilverSponsorsRevvityHealth](./images/revvity_logo-250.jpg) ](https://www.revvity.com/gb-en)
+
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
