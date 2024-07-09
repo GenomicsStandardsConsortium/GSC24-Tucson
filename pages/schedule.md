@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Online Agenda
-cover-img: /assets/img/schedule-banner.png
+cover-img: /assets/img/schedule-banner2.png
 share-img: /assets/img/
 ---
 
