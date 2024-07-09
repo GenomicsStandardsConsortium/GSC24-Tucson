@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Online Agenda
-cover-img: /assets/img/schedule-banner3.png
+cover-img: /assets/img/schedule-banner.png
 share-img: /assets/img/
 ---
 
@@ -90,7 +90,11 @@ The meeting will run from:
   * 10:00-12:00	Discussion of Challenges to Solutions
   * 12:00 pm Lunch
 
+## Thank you to our sponsors
 
+[ ![ZymoPlatinum](./images/ZymoResearch-yellow-125.jpg) ](https://zymoresearch.eu/) [ ![QiagenGold](./images/qiagen-logo-125.jpg) ](https://www.qiagen.com/) [ ![GigaSciencePressGold](./images/GSPress-125.jpg) ](https://www.gigasciencepress.org/) [ ![ElementBiosciencesGold](./images/ElementBiosciences-logo-125.png) ](https://www.elementbiosciences.com/)
+
+[ ![SilverSponsorsATCC](./images/ATCC_logo_v125.jpg) ](https://www.atcc.org/) [ ![n6tecBronze](./images/n6tec-125.jpg) ](https://www.n6tec.com/) [ ![SingularBronze](./images/SingularGenomics-125.jpg) ](https://singulargenomics.com/) [ ![OneCodexBronze](./images/one_codex-125.jpg) ](https://www.onecodex.com/)
 
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Asia%2FBangkok&mode=WEEK&src=OTkwMGE0M2ZlMzJjNWE3YWU2OTVhOTdkOTRhOWQ0ZDA0Y2FlMWU5M2M5MjVlNDNmYWNlYTVmZGY1YTRhOTAzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Z2Vuc2MtYm9hcmRAZ29vZ2xlZ3JvdXBzLmNvbQ&color=%237CB342&color=%237CB342" style="border:solid 1px #777" width="900" height="600" frameborder="0" scrolling="no"></iframe>
