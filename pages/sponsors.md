@@ -29,6 +29,7 @@ ___
 [ ![SilverSponsorsRevvityHealth](./images/revvity_logo-250.jpg) ](https://www.revvity.com/gb-en)
 
 [ ![SilverSponsorsOriginCorsair](./images/corsair-250.jpg) [(https://www.corsair.com/)
+
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
