@@ -92,7 +92,7 @@ The meeting will run from:
 
 ## Thank you to our sponsors
 
-[ ![ZymoPlatinum](./images/ZymoResearch-yellow-125.jpg) ](https://zymoresearch.eu/) [ ![QiagenGold](./images/qiagen-logo-125.jpg) ](https://www.qiagen.com/) [ ![GigaSciencePressGold](./images/GSPress-125.jpg) ](https://www.gigasciencepress.org/) [ ![ElementBiosciencesGold](./images/ElementBiosciences-logo-125.png) ](https://www.elementbiosciences.com/) [  ![SilverSponsorsOriginCorsair](./images/corsair-125.jpg) [(https://www.corsair.com/)
+[ ![ZymoPlatinum](./images/ZymoResearch-yellow-125.jpg) ](https://zymoresearch.eu/) [ ![QiagenGold](./images/qiagen-logo-125.jpg) ](https://www.qiagen.com/) [ ![GigaSciencePressGold](./images/GSPress-125.jpg) ](https://www.gigasciencepress.org/) [ ![ElementBiosciencesGold](./images/ElementBiosciences-logo-125.png) ](https://www.elementbiosciences.com/) [  ![SilverSponsorsOriginCorsair](./images/corsair-125.jpg) [(https://www.corsair.com/)]
 
 [ ![SilverSponsorsATCC](./images/ATCC_logo_v125.jpg) ](https://www.atcc.org/) [ ![SilverSponsorsRevvityHealth](./images/revvity_logo-125.jpg) ](https://www.revvity.com/gb-en) [ ![n6tecBronze](./images/n6tec-125.jpg) ](https://www.n6tec.com/) [ ![SingularBronze](./images/SingularGenomics-125.jpg) ](https://singulargenomics.com/) [ ![OneCodexBronze](./images/one_codex-125.jpg) ](https://www.onecodex.com/)
 
