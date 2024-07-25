@@ -28,7 +28,7 @@ ___
 
 [ ![SilverSponsorsRevvityHealth](./images/revvity_logo-250.jpg) ](https://www.revvity.com/gb-en)
 
-[ ![SilverSponsorsOriginCorsair](./images/corsair-250.jpg) ](https://www.corsair.com/)
+[ ![SilverSponsorsOriginCorsair](./images/corsair-250.jpg) ](https://www.OriginPC.com/)
 
 ___
 
@@ -39,6 +39,8 @@ ___
 [ ![SingularBronze](./images/SingularGenomics-250.jpg) ](https://singulargenomics.com/)
 
 [ ![OneCodexBronze](./images/one_codex-250.jpg) ](https://www.onecodex.com/)
+
+[ ![AZGenInstBronze](./images/AZgenInst-250.png) ](http://www.genome.arizona.edu/)
 
 ___
 
