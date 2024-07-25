@@ -40,7 +40,7 @@ ___
 
 [ ![OneCodexBronze](./images/one_codex-250.jpg) ](https://www.onecodex.com/)
 
-[ ![AZGenInstBronze](./images/AZgenInst-250.png) ](http://www.genome.arizona.edu/)
+[ ![AZGenInstBronze](./images/AZGenInst-250.png) ](http://www.genome.arizona.edu/)
 
 ___
 
