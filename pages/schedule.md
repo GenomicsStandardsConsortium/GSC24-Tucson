@@ -11,7 +11,7 @@ The meeting will run from:
 ## Agenda Schedule 
 
 * **Monday, August 5 GSC board meeting** [Bio5](https://bio5.org/)
-    * 1:00-4:00 pm: Board Meeting; 6:00 pm: Board Dinner
+    * 1:00-4:00 pm: Board Meeting; 5:30 pm: Board Dinner
 
 * **Tuesday, August 6 GSC main meeting** (**8:45 am - 5:00 pm**) 
   * **Session 1: Reproducibility Challenges**
