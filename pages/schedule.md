@@ -19,7 +19,8 @@ The meeting will run from:
 Ramona Walls
     * 9:00-9:30am: **Keynote: [Greg Caporaso](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (Northern Arizona University, The Translational Genomics Research Institute)**:  Reproducing, replicating and replaying bioinformatics workflows 
     * 9:30-9:50 [Chris Hunter](https://www.linkedin.com/in/chr1shunter/) (GigaScience): The reproducibility challenges in publishing
-    * 9:50-10:10 [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/) (OICR, University of Oxford, UK): FAIRsharing, FAIRshake – challenges
+    * 9:50-10:10 [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/) (OICR, University of Oxford, UK): [FAIRsharing, FAIRshake – challenges](https://docs.google.com/document/d/1VfMTz4EYfKtCG31Swt8jt7FUI-BeyArb/edit): Reproducibility across 
+contexts: spotlight on TIER2 
     * 10:10-10:20 [Shawn Levy](https://www.elementbiosciences.com/about/team/shawn-levy), [Element Biosciences](https://www.elementbiosciences.com): Avidity Sequencing on the AVITI System - Sequencing Reimagined
     * 10:20-11:00	Coffee Break
     * 11:00-11:20 [João Carlos Setubal](https://www.iq.usp.br/setubal/index-en.html) (University of São Paulo): An Anecdote regarding Metagenome Data Access, and the lessons we can learn from it
