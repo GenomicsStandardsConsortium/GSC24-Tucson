@@ -8,16 +8,15 @@ share-img: /assets/img/keynote-banner.png
 # (Session) Keynote Speakers
 
 * Session 1: Reproducibility Challenges
-[**J. Gregory Caporaso**](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (Northern Arizona University, The Translational Genomics Research Institute)
-
-* Session 4: Challenges of ‘Omic data reuse - IMMSA
-[**Jonathan Eisen**](https://biology.ucdavis.edu/people/jonathan-eisen) (UC Davis Genome Center)
+[**J. Gregory Caporaso**](https://www.tgen.org/faculty-profiles/j-gregory-caporaso/) (Northern Arizona University, The Translational Genomics Research Institute): Reproducing, replicating and replaying 
+bioinformatics workflows 
 
 * Session 5: Genomics and Standards challenges
-[**Jack Gilbert**](https://gilbertlab.ucsd.edu/) (UCSD)
+[**Jack Gilbert**](https://gilbertlab.ucsd.edu/) (UCSD): Precision microbiome medicine and standards
 
 * Session 6: Reproducibility Challenges to Solutions
-[**Rachel Gallery**](https://nature.arizona.edu/rachel-gallery) (University of Arizona)
+[**Elisha Wood-Charlson**] (https://www.kbase.us/team/) (Lawrence Berkeley National Laboratory, KBase): Going beyond FAIR to COPE with complex biological data 
+
 
 
 # Dawn Field Awardee 
