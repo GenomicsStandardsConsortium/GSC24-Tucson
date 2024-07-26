@@ -54,7 +54,8 @@ Transcriptomes.
     * 1:20-1:40 [Neil Davies](https://www.moorea.berkeley.edu/people/Neil-Davies) (Gump South Pacific Research Station): Sampling Nature and Omic Observatories in an AI World.
     * 1:40-2:00 [Briana Benton](https://www.atcc.org/blogs/2024/taxonomic-classification-can-sometimes-be-a-strain) (ATCC): Setting the Standard in Microbial Genomics: Using Reference Assemblies from the ATCC® Genome Portal as Ground Truth.
     * 2:00-2:20	[Tianyi Wang](https://www.linkedin.com/in/tianyi-wang-3432429a/) (George Washington University):BioCompute Objects: A Standard for Transparent and Reproducible Omic Data Analysis Communication.
-    * 2:30-5:00 Workshops: Afternoon Working Groups
+    * 2:30-3:00 Coffee Break
+    * 3:00-5:00 Workshops: Afternoon Working Groups
        * TDWG - CIG interactions & [NMDC](https://microbiomedata.org/) Field Notes mobile app workshop.
       
 * **Thursday, August 8 GSC main meeting**
