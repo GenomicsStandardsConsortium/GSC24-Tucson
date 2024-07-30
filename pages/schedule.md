@@ -8,6 +8,9 @@ share-img: /assets/img/
 The meeting will run from: 
      **9am Tuesday August 6th through lunchtime on Friday August 9th, 2024.**
 
+[**click here**](/assets/GSC24_Agenda_Booklet.pdf) to download the PDF program booklet**
+
+
 ## Agenda Schedule 
 
 * **Monday, August 5 GSC board meeting** [Bio5](https://bio5.org/)
@@ -47,7 +50,7 @@ Transcriptomes.
 
   * **Session 3: Omic Standards**
     * 11:00-11:20 [Ramona Walls](https://www.linkedin.com/in/ramona-walls-41aa7599/) (Critical Path Institute): The Research, Technology, Standards Triangle in 'Omics.
-    * 11:20-11:40 [Ruth Timme](https://www.linkedin.com/in/ruth-e-timme-2615248/) [(FDA, Center for Food Safety and Applied Nutrition)](https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan): GenomeTrakr’s Efforts to Improve ​Pathogen Data Standards: ​Advancing Interoperability for ​Public and Private Repositories.
+    * 11:20-11:40 [Ruth Timme](https://www.linkedin.com/in/ruth-e-timme-2615248/) [(FDA, Center for Food Safety and Applied Nutrition)](https://www.fda.gov/about-fda/fda-organization/center-food-safety-and-applied-nutrition-cfsan): GenomeTrakr’s Efforts to Improve Pathogen Data Standards: Advancing Interoperability for Public and Private Repositories.
     * 11:40-12:00 [Tim Van Den Bossche](https://www.linkedin.com/in/vandenbosschetim) (Ghent University):Challenges and solutions for metadata management in metaproteomics.
     * 12:00-1:00 pm	Lunch
     * 1:00-1:20 [Peter Woollard](https://www.embl.org/people/person/peter-woollard/) (EMBL-EBI): eDNAqua-Plan: Exploring Standards in Aquatic eDNA, Presented by Peter Woollard, EMBL-EBI.
@@ -56,7 +59,7 @@ Transcriptomes.
     * 2:00-2:20	[Tianyi Wang](https://www.linkedin.com/in/tianyi-wang-3432429a/) (George Washington University):BioCompute Objects: A Standard for Transparent and Reproducible Omic Data Analysis Communication.
     * 2:30-3:00 Coffee Break
     * 3:00-5:00 Workshops: Afternoon Working Groups
-       * TDWG - CIG interactions & [NMDC](https://microbiomedata.org/) Field Notes mobile app workshop.
+       * TWG - CIG interactions & [NMDC](https://microbiomedata.org/) Field Notes mobile app workshop.
       
 * **Thursday, August 8 GSC main meeting**
   * **Session 4: Challenges of ‘Omic data reuse - IMMSA** [(International Microbiome and Multi’Omics Standards Alliance)](https://www.microbialstandards.org/home) Session Chairs: Ishi Keenum and Jason Kralj
