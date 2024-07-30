@@ -8,7 +8,7 @@ share-img: /assets/img/
 The meeting will run from: 
      **9am Tuesday August 6th through lunchtime on Friday August 9th, 2024.**
 
-[**click here**](/assets/GSC24_Agenda_Booklet.pdf) to download the PDF program booklet**
+[**click here**](../assets/GSC24_Agenda_Booklet.pdf) to download the PDF program booklet
 
 
 ## Agenda Schedule 
